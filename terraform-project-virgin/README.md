@@ -1,5 +1,5 @@
 # virgin-dev-ops
-Virgin  test
+V  test
 Instructions:
 1. Create a new Terraform project in a directory of your choice.
 2. Write the code to provision a GKE cluster in a single zone with three nodes, each with at least
